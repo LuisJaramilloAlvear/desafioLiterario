@@ -1,4 +1,5 @@
 📚 Proyecto LibroConectado
+
 LibroConectado es una aplicación de consola desarrollada en Java con Spring Boot que se conecta a una API externa para obtener información sobre libros. Esta información es almacenada en una base de datos utilizando JPA e Hibernate para la persistencia. El proyecto está orientado a la optimización del acceso a los datos y la eficiencia de las consultas.
 
 🔍 Características Principales
